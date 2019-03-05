@@ -1312,7 +1312,7 @@ General Styles - Owlcarousel
 .navbar-custom .dropdown-menu > li > a:focus,
 .navbar-custom .dropdown-menu > li > a:hover {
   background: none;
-  color: #8787DE;
+  color: #cc0025;
 }*/
 
 .navbar-custom .nav > li > a:focus,
@@ -1326,13 +1326,13 @@ General Styles - Owlcarousel
 .navbar-custom .nav .open > a:hover,
 .navbar-custom .dropdown-menu > li > a:hover {
   background: none;
-  color: #8787DE;
+  color: #cc0025;
 }
 
 .navbar-custom .nav > .active > a,
 .navbar-custom .dropdown-menu > .active > a {
   background: none;
-  color: #8787DE;
+  color: #cc0025;
 }
 
 .navbar-custom .dropdown-menu > li > a:hover {
